@@ -7,9 +7,8 @@
 На тестирование затрачено: 5 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [ISSUE 1](https://github.com/k2wln/homework-221/issues/1)
-* [ISSUE 2](https://github.com/k2wln/homework-221/issues/2)
-* [ISSUE 3](https://github.com/k2wln/homework-221/issues/3)
+* KeyValidator.class - treats a valid keys as invalid [Click to ISSUE](https://github.com/k2wln/homework-221/issues/1)
+* KeyValidator.class - treats a invalid key as valid [Click to ISSUE](https://github.com/k2wln/homework-221/issues/4)
 
 ## Описание процесса тестирования
 
